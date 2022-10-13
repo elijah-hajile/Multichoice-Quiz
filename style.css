@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace
+}
+
+body {
+    padding: 100%;
+    margin: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 100vh;
+    background-color: rgb(55, 0, 0);
+}
+
+.container {
+    width: 750px;
+    max-width: 70%;
+    background-color: white;
+    padding: 20px;
+}
